@@ -1,0 +1,8 @@
+{
+    "users": [
+      { "id": 1, "email": "admin@example.com", "password": "admin123" }
+    ],
+    "products": [
+      { "id": 1, "name": "Sản phẩm 1", "price": 100, "userId": 1 }
+    ]
+  }
