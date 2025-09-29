@@ -1,0 +1,44 @@
+
+.background {
+   background: #F2F6FE;
+   height: 100vh;
+   width: 100vw;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   overflow: hidden;
+   margin-top: 30px;
+  }
+  
+.background__img img{
+    width: 1000px;
+    height: 100%;
+    border-radius: 20px;
+    position: relative;
+  }
+
+.form-wrapper{
+    position: absolute;
+    background: #FFFF;
+    width: 400px;
+    height: 500px;
+    padding: 40px;
+    border-radius: 15px;
+    right: 300px;
+}
+
+.logo__img img{
+    position: absolute;
+    width: 230px;
+    left: -45px;
+    bottom: 420px;
+
+}
+
+h2{
+    position: absolute;
+    top: 50px;
+}
+
+
+  
